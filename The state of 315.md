@@ -7,3 +7,4 @@
 - Grzejniki działają raz na ruski rok
 - Dyrekcja ma tą sale głęboko gdzieś, i wszystko co sie w niej dzieje jest odpowiedzialnością głównego prowadzącego
 - Ogólny brak organizacji
+- Braki w wyposażeniu (głównie dlatego że spora część wyposażenia z każdym tygodniem emigruje do szafek egzaminacyjnych/do serwerowni)
